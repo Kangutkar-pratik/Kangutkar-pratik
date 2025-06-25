@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratik Kangutkar
 
-<!--
-**Kangutkar-pratik/Kangutkar-pratik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Java Backend Developer | Ex-Amazon | Focused on Java, SQL, REST APIs  
+🛠️ Currently learning Spring Boot and building backend projects  
+🔍 Open to internships and entry-level roles in backend development
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Java, JDBC, MySQL, REST APIs, Git
+- C++, Python (basic), SQL, Servlets (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Projects (coming soon)
+- Student Management System – Java + MySQL
+- Book REST API – Java + Servlets + Token Auth
+
+Let's connect!  
+📧 pratikkangutkar4@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/pratik-kangutkar-ba8276294)
